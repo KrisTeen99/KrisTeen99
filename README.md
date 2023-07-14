@@ -1,4 +1,5 @@
-### Howdy! It's me, Kristina, an aspiring front-end developer 👋
+### Howdy! It's me, Kristina, an aspiring front-end developer ![TheGoodTheBadAndTheUglyClintEastwoodGIF](https://github.com/KrisTeen99/KrisTeen99/assets/139345773/0c58fe91-7989-49d5-a11d-16c26438891a)
+
 
 <!--
 **KrisTeen99/KrisTeen99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
