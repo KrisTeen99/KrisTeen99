@@ -1,6 +1,7 @@
 ### Howdy! It's me, Kristina, an aspiring front-end developer! 🤗
 
-[TheGoodTheBadAndTheUglyClintEastwoodGIF](https://github.com/KrisTeen99/KrisTeen99/assets/139345773/0c58fe91-7989-49d5-a11d-16c26438891a)
+![TheGoodTheBadAndTheUglyClintEastwoodGIF (2)](https://github.com/KrisTeen99/KrisTeen99/assets/139345773/852b4f9b-6497-4d63-a14e-eb7a33e30d66)
+
 
 
 <!--
